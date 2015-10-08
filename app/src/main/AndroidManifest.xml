@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dm2.actividades17_intents" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Actividad1"
+            android:label="@string/title_activity_actividad1" >
+        </activity>
+        <activity
+            android:name=".Actividad1_1"
+            android:label="@string/title_activity_actividad1_1" >
+        </activity>
+        <activity
+            android:name=".Actividad2"
+            android:label="@string/title_activity_actividad2" >
+        </activity>
+        <activity
+            android:name=".Actividad2_1"
+            android:label="@string/title_activity_actividad2_1" >
+        </activity>
+        <activity
+            android:name=".Actividad3"
+            android:label="@string/title_activity_actividad3" >
+        </activity>
+        <activity
+            android:name=".Actividad3_1"
+            android:label="@string/title_activity_actividad3_1" >
+        </activity>
+        <activity
+            android:name=".Actividad4"
+            android:label="@string/title_activity_actividad4" >
+        </activity>
+        <activity
+            android:name=".Actividad4_1"
+            android:label="@string/title_activity_actividad4_1" >
+        </activity>
+        <activity
+            android:name=".Actividad5"
+            android:label="@string/title_activity_actividad5" >
+        </activity>
+        <activity
+            android:name=".Actividad5_1"
+            android:label="@string/title_activity_actividad5_1" >
+        </activity>
+    </application>
+
+</manifest>

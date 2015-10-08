@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Actividades17_intents</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad1">Actividad1</string>
+    <string name="title_activity_actividad1_1">Actividad1_1</string>
+    <string name="title_activity_actividad2">Actividad2</string>
+    <string name="title_activity_actividad2_1">Actividad2_1</string>
+    <string name="title_activity_actividad3">Actividad3</string>
+    <string name="title_activity_actividad3_1">Actividad3_1</string>
+    <string name="title_activity_actividad4">Actividad4</string>
+    <string name="title_activity_actividad4_1">Actividad4_1</string>
+    <string name="title_activity_actividad5">Actividad5</string>
+    <string name="title_activity_actividad5_1">Actividad5_1</string>
+</resources>
